@@ -7,9 +7,9 @@
 
 **I have developed various softwares for personal purpose as well as for research prospective.**  <br/> 
 
-**I am visiting research scholar at Iowa State University Ames, IA. <br/>
+**I am visiting research scholar at Iowa State University Ames, IA.** <br/>
 
-**I was also Placement Coordinator in MNIT Rajasthan during 2016-2018
+**I was also Placement Coordinator in MNIT Rajasthan during 2016-2018.**
 
 
 
