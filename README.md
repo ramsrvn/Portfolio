@@ -1,7 +1,7 @@
 
 **Currently I am working as security analyst on Space/Time Analysis for Cybersecurity (STAC) program of Defense Advanced Research Projects Agency (DARPA).**<br/>
 
-**We were also the winner of the First Software Documentation Generation Challenge (DocGen) in 3rd International Workshop on Dynamic Software Documentation (DySDoc3) which was hosted by the IEEE International Conference on Software Maintenance and Evolution (ICSME 2018).** <br/>
+**We were also the winner of the First Software Documentation Generation Challenge (DocGen) in 3rd International Workshop on Dynamic Software Documentation (DySDoc3) which was hosted by the IEEE International Conference on Software Maintenance and Evolution (ICSME 2018). We won the Best Challenge Entry Award** <br/>
 
 **I am also recognized by MIT, Red Hat and Microsoft for the contribution in the security of the Kerberos.** <br/>
 
