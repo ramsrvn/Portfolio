@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/benjholla/benjholla.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hello@ben-holland.com
+  email: sharwan@iastate.edu
   facebook:
   flickr:
   github: ramsrvn
@@ -27,8 +27,8 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
-  stackoverflow: users/475329/ben-holland
-  youtube: # channel/UC78AaIVLsR7qUMVqUnK5mrA
+ # stackoverflow: users/475329/ben-holland
+ # youtube: # channel/UC78AaIVLsR7qUMVqUnK5mrA
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -39,7 +39,7 @@ google_analytics: UA-64320378-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://ben-holland.com
+url: https://shrawanram.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
